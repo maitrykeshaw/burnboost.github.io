@@ -3,24 +3,24 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <url>
-    <loc>https://alpha-xtra-boost.netlify.app/</loc>
-    <lastmod>2025-01-15T04:38:31+00:00</lastmod>
-  </url>
+
 
   <url>
-    <loc>https://alpha-xtra-boost.netlify.app/privacy-policy</loc>
-    <lastmod>2025-01-15T04:38:31+00:00</lastmod>
+    <loc>https://buy-burnboost.netlify.app/</loc>
+    <lastmod>2025-03-27T17:37:13+00:00</lastmod>
   </url>
-
   <url>
-    <loc>https://alpha-xtra-boost.netlify.app/disclaimer</loc>
-    <lastmod>2025-01-15T04:38:31+00:00</lastmod>
+    <loc>https://buy-burnboost.netlify.app/privacy-policy</loc>
+    <lastmod>2025-03-27T17:37:13+00:00</lastmod>
   </url>
-
   <url>
-    <loc>https://alpha-xtra-boost.netlify.app/terms-and-conditions</loc>
-    <lastmod>2025-01-15T04:38:31+00:00</lastmod>
-
+    <loc>https://buy-burnboost.netlify.app/disclaimer</loc>
+    <lastmod>2025-03-27T17:37:13+00:00</lastmod>
   </url>
+  <url>
+    <loc>https://buy-burnboost.netlify.app/terms-and-conditions</loc>
+    <lastmod>2025-03-27T17:37:13+00:00</lastmod>
+  </url>
+
+
 </urlset>
