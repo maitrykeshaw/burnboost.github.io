@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-<loc>https://buy-burnboost.netlify.app/privacy-policy</loc>
-<changefreq>yearly</changefreq>
-</url>
-<url>
-<loc>https://buy-burnboost.netlify.app/disclaimer</loc>
-<changefreq>yearly</changefreq>
-</url>
-<url>
-<loc>https://buy-burnboost.netlify.app/terms-and-conditions</loc>
-<changefreq>yearly</changefreq>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://buy-burnboost.netlify.app/privacy-policy</loc>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>https://buy-burnboost.netlify.app/disclaimer</loc>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>https://buy-burnboost.netlify.app/terms-and-conditions</loc>
+        <changefreq>yearly</changefreq>
+    </url>
 </urlset>
