@@ -1,1 +1,1 @@
-# burnboost.github.io
+# https://burnboost.vercel.app
