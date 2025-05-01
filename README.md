@@ -1,1 +1,1 @@
-# https://burnboost.vercel.app
+# https://burnboost.vercel.app/
