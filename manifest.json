@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Burn Boost™ (Official) Pay Only $39/Bottle - Limited Time! Hurry",
+  "short_name":"Burn Boost™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Burn Boost is a weight loss supplement containing a blend of natural ingredients that triggers lipolysis action in the body.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
