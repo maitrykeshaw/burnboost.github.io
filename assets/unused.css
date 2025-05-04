@@ -73,10 +73,10 @@ body {
     box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   }
 } /*!
-   * Bootstrap v3.1.1 (http://getbootstrap.com)
-   * Copyright 2011-2014 Twitter, Inc.
-   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
-   */ /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+ * Bootstrap v3.1.1 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */ /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -94,10 +94,6 @@ a:hover {
 }
 b {
   font-weight: 700;
-}
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
 }
 img {
   border: 0;
@@ -189,23 +185,22 @@ a:focus {
 img {
   vertical-align: middle;
 }
-h1,
 h2 {
   font-family: inherit;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
 }
-h1,
 h2 {
   margin-top: 20px;
   margin-bottom: 10px;
 }
-h1 {
-  font-size: 36px;
-}
 h2 {
   font-size: 30px;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 10px;
 }
 .container {
   margin-right: auto;
@@ -344,17 +339,11 @@ h2 {
 .radius0 {
   border-radius: 0px;
 }
-.radius5 {
-  border-radius: 5px;
-}
 .radius10 {
   border-radius: 10px;
 }
 .radius15 {
   border-radius: 15px;
-}
-.padding5 {
-  padding: 5px !important;
 }
 .padding10 {
   padding: 10px !important;
@@ -425,7 +414,6 @@ body {
   -webkit-font-smoothing: antialiased;
   color: inherit !important;
 }
-h1,
 h2 {
   margin-top: 0px;
 }
@@ -451,26 +439,14 @@ h2 {
 .elHeadlineWrapper .elHeadline span {
   padding: 0px;
 }
+.hsSize1 {
+  font-size: 16px;
+}
 .hsSize2 {
   font-size: 24px;
 }
-.hsSize3 {
-  font-size: 32px;
-}
-.lh4 {
-  line-height: 1.3em;
-}
 .lh3 {
   line-height: normal;
-}
-.deCapitalize {
-  text-transform: capitalize;
-}
-.de1pxLetterSpacing {
-  letter-spacing: 1px;
-}
-.de2pxLetterSpacing {
-  letter-spacing: 2px;
 }
 .de-image-block img {
   max-width: 100%;
@@ -519,6 +495,11 @@ h2 {
 }
 .elButtonSize1 .elButtonSub {
   font-size: 14px;
+}
+.elButtonFull {
+  display: block;
+  text-align: center;
+  width: 100%;
 }
 .elButtonRounded {
   border: 1px solid rgba(0, 0, 0, 0.13);
@@ -578,6 +559,29 @@ h2 {
   box-shadow: inset 0 0px 0px 0 rgba(255, 255, 255, 0.22),
     0 233px 233px 0 rgba(255, 255, 255, 0.12) inset;
 }
+.elBulletList {
+  padding: 0px;
+  list-style-type: none;
+}
+.elBulletList li i.fa {
+  margin-right: 0.71428571em;
+}
+.elBulletListNew li {
+  padding-bottom: 6px;
+  list-style-type: none;
+  margin-bottom: 6px;
+  padding-left: 2em;
+}
+.elBulletListNew li i.fa {
+  margin-left: -2em;
+}
+.elBulletList2 li {
+  font-size: 15px;
+}
+.elBulletList li:before {
+  left: 0px !important;
+  position: absolute;
+}
 .elDivider {
   width: 100%;
   min-height: 1px;
@@ -616,12 +620,12 @@ h2 {
   font-weight: 400;
   font-style: normal;
 } /*! Social Likes v3.0.4 by Artem Sapegin - http://sapegin.github.com/social-likes - Licensed MIT */ /*!
-  * Pricely v1.0
-  *
-  * Copyright 2013 - Forever, Weborithm.com
-  *
-  * Designed and built by Weborithm
-  */
+* Pricely v1.0
+*
+* Copyright 2013 - Forever, Weborithm.com
+*
+* Designed and built by Weborithm
+*/
 .payselect-container:visible:last {
   border-bottom: 1px solid #e0e0e0;
 } /*! Swipebox v1.2.8 | Constantin Saguin csag.co | MIT License | github.com/brutaldesign/swipebox */
