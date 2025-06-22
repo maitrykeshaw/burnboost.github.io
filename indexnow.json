@@ -1,5 +1,5 @@
 {
-    "host": "https://burnboost.vercel.app/",
+    "host": "burnboost.vercel.app",
     "key": "kkrabc123xyz",
     "keyLocation": "https://burnboost.vercel.app/indexnow.json"
   }
